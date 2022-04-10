@@ -1,0 +1,3 @@
+[submodule "submodules/sample-namespace-packages"]
+	path = submodules/sample-namespace-packages
+	url = https://github.com/pypa/sample-namespace-packages.git
