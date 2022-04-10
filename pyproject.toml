@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "git-package-example"
-version = "0.1.0"
+version = "0.1.1-alpha.0"
 description = ""
 authors = ["Turanga Leela <turanga.leela@planetexpress.io>"]
 readme = "README.md"
