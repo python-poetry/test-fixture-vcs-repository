@@ -4,3 +4,6 @@
 [submodule "submodules/non-existent-path"]
     path = submodules/non-existent-path
     url = git@github.com:pypa/sampleproject.git
+[submodule "submodules/relative-url"]
+    path = submodules/relative-url
+    url = ./sampleproject.git
