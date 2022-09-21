@@ -2,5 +2,9 @@
 	path = submodules/sample-namespace-packages
 	url = https://github.com/pypa/sample-namespace-packages.git
 [submodule "submodules/non-existent-path"]
-    path = submodules/non-existent-path
-    url = git@github.com:pypa/sampleproject.git
+	path = submodules/non-existent-path
+	url = git@github.com:pypa/sampleproject.git
+[submodule "submodules/relative-url-submodule"]
+	path = submodules/relative-url-submodule
+	url = ../test-fixture-vcs-repository.git
+	branch = standalone_branch
