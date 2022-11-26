@@ -8,3 +8,7 @@
 	path = submodules/relative-url-submodule
 	url = ../test-fixture-vcs-repository.git
 	branch = standalone_branch
+[submodule "submodules/relative-url-submodule-with-base"]
+	path = submodules/relative-url-submodule-with-base
+	url = ./../test-fixture-vcs-repository.git
+	branch = standalone_branch
